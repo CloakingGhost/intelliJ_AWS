@@ -1,0 +1,4 @@
+ Gradle 7.0 (2021.4.9) 이후 부터 
+compile, runtime, testCompile, testRuntime 순서대로
+implementation, runtimeOnly, testImplementation, testRuntimeOnly
+로 바뀜
